@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609899053045",
+    "project_id": "tasty-go-a6ee5",
+    "storage_bucket": "tasty-go-a6ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609899053045:android:c185c77fd66c4c81332abc",
+        "android_client_info": {
+          "package_name": "com.tastygo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCvCAcv9Q_7Vb377KFYK51kdghch15Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
