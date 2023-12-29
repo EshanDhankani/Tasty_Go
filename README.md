@@ -1,3 +1,11 @@
+# Tasty Go
+
+# A Food Ordering App For Customers
+
+# Figma Link: https://www.figma.com/file/9tso45Yrfc5hperWugY8Ff/Tasty-Go?type=design&node-id=0%3A1&mode=design&t=cBKpPgEQeP8sBKZy-1
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
